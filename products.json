@@ -1,0 +1,39 @@
+{"products":
+[
+  {
+    "id": "1",
+    "name": "Logitech G Pro",
+    "price": "365.25"
+  },
+  {
+    "id": "2",
+    "name": "Logitech G 805",
+    "price": "725.00"
+  },
+  {
+    "id": "3",
+    "name": "Razer Deathadder V3 Pro",
+    "price": "393.90"
+  },
+  {
+    "id": "4",
+    "name": "ASUS ROG Keris Wireless AimPoint",
+    "price": "286.43"
+  },
+  {
+    "id": "5",
+    "name": "HyperX Cloud Alpha",
+    "price": "295.55"
+  },
+  {
+    "id": "6",
+    "name": "HyperX Fury S Pro M",
+    "price": "69.00"
+  },
+  {
+    "id": "7",
+    "name": "ASUS ROG Azoth",
+    "price": "1453.43"
+  }
+ ]
+}
